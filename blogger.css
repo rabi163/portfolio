@@ -1,0 +1,52 @@
+.left-align {
+    margin-left: 6.5rem !important;
+}
+.right-allign {
+    padding-right: 4.5rem !important;
+}
+.equipment {
+    text-align: right;
+}
+.right-allign-equip {
+    margin-right: 3.0rem !important;
+}
+.header {
+    font-weight: 600;
+    font-style: normal;
+    font-size: 2.4rem;
+    line-height: 3.8rem;
+}
+.image-size {
+    width:300px; 
+    height: 380px;
+}
+.text-danger-color {
+    color: #de0f66;
+}
+.top-allign {
+    margin-top: 150px !important;
+}
+.top-allign-15 {
+    margin-top: 30px !important;
+}
+.border-empty {
+    border: 0.5px solid #ddd;
+    width: 100%;
+}
+.subheader {
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.0rem;
+}
+.sub-font-data {
+    font-size: 1.11111rem;
+    text-align: center;
+    line-height: 1.44444rem;
+    width: 10%;
+}
+.subheader-footer {
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.5rem;
+    line-height: 2.0rem;
+}
